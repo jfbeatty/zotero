@@ -38,8 +38,8 @@
 - Zotero groups: [http://www.zotero.org/groups/][3]
 - Zotero on mobile devices: [http://www.zotero.org/support/mobile][4]  
 	- Zotpad  
-	 - Zotfile
-	- Mobile bookmarklet
+	- Zotfile  
+	- Mobile bookmarklet  
 
 [1]:	http://www.zotero.org
 [2]:	http://www.zotero.org/support/word_processor_plugin_installation
