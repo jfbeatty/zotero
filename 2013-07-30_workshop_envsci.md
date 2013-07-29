@@ -5,7 +5,7 @@
 
 **installation**
 
-- install Firefox 22.0 (the latest version) via "About Firefox" link in main menu    
+- open Firefox and install Firefox 22.0 (the latest version) via "About Firefox" link in main menu    
 - install Zotero 4.0.8 plugin via [http://www.zotero.org][1]  
 - register for Zotero account  
 - install Microsoft Word plugin via [http://www.zotero.org/support/word\_processor\_plugin\_installation][2]
