@@ -117,22 +117,22 @@ If the icon does not show up in the address bar, back out of the browser URL w/ 
 [2]:	http://www.zotero.org/
 [3]:	http://www.zotero.org/download/
 
-[image-1]:	Zotero%20download%20now%20button.jpg
-[image-2]:	Zotero%204%20for%20Firefox%20button.jpg
-[image-3]:	Word%20processor%20plugin%20link.jpg
-[image-4]:	Full%20screen%20icon.jpg
-[image-5]:	Gear%20icon.jpg
-[image-6]:	Preferences.jpg
-[image-7]:	Sync%20preferences.jpg
-[image-8]:	style_manager.jpg
-[image-9]:	New%20Collections%20icon.jpg
-[image-10]:	library_pane.jpg
-[image-11]:	bibliographic_info_pane.jpg
-[image-12]:	sync_icon.jpg
-[image-13]:	zotero_groups_01.jpg
-[image-14]:	new_zotero_group.jpg
-[image-15]:	ms_word_toolbar.jpg
-[image-16]:	document_preferences_style.jpg
-[image-17]:	insert_citation.jpg
-[image-18]:	create_bibliography.jpg
-[image-19]:	insert_page_number.jpg
+[image-1]:Zotero%20download%20now%20button.jpg
+[image-2]:Zotero%204%20for%20Firefox%20button.jpg
+[image-3]:Word%20processor%20plugin%20link.jpg
+[image-4]:Full%20screen%20icon.jpg
+[image-5]:Gear%20icon.jpg
+[image-6]:Preferences.jpg
+[image-7]:Sync%20preferences.jpg
+[image-8]:style_manager.jpg
+[image-9]:New%20Collections%20icon.jpg
+[image-10]:library_pane.jpg
+[image-11]:bibliographic_info_pane.jpg
+[image-12]:sync_icon.jpg
+[image-13]:zotero_groups_01.jpg
+[image-14]:new_zotero_group.jpg
+[image-15]:ms_word_toolbar.jpg
+[image-16]:document_preferences_style.jpg
+[image-17]:insert_citation.jpg
+[image-18]:create_bibliography.jpg
+[image-19]:insert_page_number.jpg
