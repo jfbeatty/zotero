@@ -2,51 +2,35 @@
 
 ## Installing Zotero
 
-1. First, install the latest version of the **Mozilla Firefox** browser. 
-- If you already have Firefox on your computer, then check for the latest update. In Firefox, go to Firefox --\> About Firefox and install updates if given the option.
-- If you do not have Firefox on your computer, then download the latest version from the [Firefox web site][1].
-
-2. Next, install **Zotero** as an extension for the Firefox browser. From within Firefox, go to the [Zotero home page][2] and click on the big red "Download Now" button. 
-
-![Zotero "download now" button][image-1]
-
-3. Then click on "Zotero 4.0 for Firefox."
-
-![Zotero 4.0 for Firefox button][image-2]
-
-4. Zotero will ask you to register your Zotero account by creating a user name and password. Don't skip this step! You'll need a Zotero account to sync your library to the cloud. After you register you may have to validate your account through a link sent to your email.
-
-5. OK, last installation step. Now you'll install the plugin that allows Zotero to create citations and bibliographies right in your paper. Go back to the [Zotero download page][3]. This time, click on the link labeled "Add a plugin for Word or LibreOffice" under the "Zotero 4.0 for Firefox" button you pushed before. Choose the appropriate plugin for your operating system and word processor.
-
+1. First, install the latest version of the **Mozilla Firefox** browser.  
+  - If you already have Firefox on your computer, then check for the latest update. In Firefox, go to Firefox --\> About Firefox and install updates if given the option.  
+  - If you do not have Firefox on your computer, then download the latest version from the [Firefox web site][1].  
+2. Next, install **Zotero** as an extension for the Firefox browser. From within Firefox, go to the [Zotero home page][2] and click on the big red "Download Now" button.  
+![Zotero "download now" button][image-1]  
+3. Then click on "Zotero 4.0 for Firefox."  
+![Zotero 4.0 for Firefox button][image-2]  
+4. Zotero will ask you to register your Zotero account by creating a user name and password. Don't skip this step! You'll need a Zotero account to sync your library to the cloud. After you register you may have to validate your account through a link sent to your email.  
+5. OK, last installation step. Now you'll install the plugin that allows Zotero to create citations and bibliographies right in your paper. Go back to the [Zotero download page][3]. This time, click on the link labeled "Add a plugin for Word or LibreOffice" under the "Zotero 4.0 for Firefox" button you pushed before. Choose the appropriate plugin for your operating system and word processor.  
 ![Word processor plugin link][image-3]
 
 ## Setting initial preferences
 
-1. Click the Zotero icon in the lower right corner of Firefox. This opens Zotero in a pane in the bottom half of your browser. If you want to see Zotero as a full screen, click the icon labeled that looks like a tab with a right-pointing arrow in the upper-right corner of the Zotero frame.
-
+1. Click the Zotero icon in the lower right corner of Firefox. This opens Zotero in a pane in the bottom half of your browser. If you want to see Zotero as a full screen, click the icon labeled that looks like a tab with a right-pointing arrow in the upper-right corner of the Zotero frame.  
 ![Toggle tab mode icon][image-4]
-
 2. Now click the gear icon (third from the left in the Zotero pane. A menu will appear. Click on the menu for Preferences.
-
 ![Gear icon][image-5]
-
 3. Click the gear icon labeled "General" to reach general preferences. These are our recommended settings:
-
 ![Preferences window][image-6]
-
 4. Now click the "Sync" icon. Enter your username and password and check off the boxes for "Sync automatically" and "Sync attachment files…." Once this step is complete, any references you import in this session will be automatically transferred via Zotero's cloud storage to any other computer on which you install Zotero in the future.
-
 ![][image-7]
-
 5. Last preference to set: default citation style. Click the "Cite" icon and then the "Styles" button. You'll see a list of all the citation styles that are currently installed. If the style you need is not on the list, you'll need to add it yourself. Click the link to "Get additional styles..." In the search box enter a word or two from the style you're looking for. When you find the right style, click on the link next to it to install the style.
 
-Some departments and their preferred style:
+  Some departments and their preferred style:
+  
+  - Chemistry: American Chemical Society  
+  - Environmental Science: Council of Science Editors (author-date)  
 
-- Chemistry: American Chemical Society  
-- Environmental Science: Council of Science Editors (author-date)  
-
-Next time you open this preference screen, your new style will appear as an option.
-
+  Next time you open this preference screen, your new style will appear as an option.
 ![Style manager][image-8]
 
 ## Collecting References
