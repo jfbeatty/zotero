@@ -113,9 +113,9 @@ If the icon does not show up in the address bar, back out of the browser URL w/ 
 
 6. When you are ready to turn in your final draft, you may choose to remove the links in your document. You can do this by clicking on the broken link icon on the far right of the custom toolbar. This will convert your document into plain text. Remember to save a version that includes the links in case you want to edit the paper in the future.
 
-[1]:	http://www.mozilla.org/en-US/firefox/new/
-[2]:	http://www.zotero.org/
-[3]:	http://www.zotero.org/download/
+[1]:http://www.mozilla.org/en-US/firefox/new/
+[2]:http://www.zotero.org/
+[3]:http://www.zotero.org/download/
 
 [image-1]:Zotero%20download%20now%20button.jpg
 [image-2]:Zotero%204%20for%20Firefox%20button.jpg
