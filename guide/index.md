@@ -22,23 +22,23 @@
 
 ## Setting initial preferences
 
-5. Click the Zotero icon in the lower right corner of Firefox. This opens Zotero in a pane in the bottom half of your browser. If you want to see Zotero as a full screen, click the icon labeled that looks like a tab with a right-pointing arrow in the upper-right corner of the Zotero frame.
+1. Click the Zotero icon in the lower right corner of Firefox. This opens Zotero in a pane in the bottom half of your browser. If you want to see Zotero as a full screen, click the icon labeled that looks like a tab with a right-pointing arrow in the upper-right corner of the Zotero frame.
 
 ![Toggle tab mode icon][image-4]
 
-6. Now click the gear icon (third from the left in the Zotero pane. A menu will appear. Click on the menu for Preferences.
+2. Now click the gear icon (third from the left in the Zotero pane. A menu will appear. Click on the menu for Preferences.
 
 ![Gear icon][image-5]
 
-7. Click the gear icon labeled "General" to reach general preferences. These are our recommended settings:
+3. Click the gear icon labeled "General" to reach general preferences. These are our recommended settings:
 
 ![Preferences window][image-6]
 
-8. Now click the "Sync" icon. Enter your username and password and check off the boxes for "Sync automatically" and "Sync attachment files…." Once this step is complete, any references you import in this session will be automatically transferred via Zotero's cloud storage to any other computer on which you install Zotero in the future.
+4. Now click the "Sync" icon. Enter your username and password and check off the boxes for "Sync automatically" and "Sync attachment files…." Once this step is complete, any references you import in this session will be automatically transferred via Zotero's cloud storage to any other computer on which you install Zotero in the future.
 
 ![][image-7]
 
-8. Last preference to set: default citation style. Click the "Cite" icon and then the "Styles" button. You'll see a list of all the citation styles that are currently installed. If the style you need is not on the list, you'll need to add it yourself. Click the link to "Get additional styles..." In the search box enter a word or two from the style you're looking for. When you find the right style, click on the link next to it to install the style.
+5. Last preference to set: default citation style. Click the "Cite" icon and then the "Styles" button. You'll see a list of all the citation styles that are currently installed. If the style you need is not on the list, you'll need to add it yourself. Click the link to "Get additional styles..." In the search box enter a word or two from the style you're looking for. When you find the right style, click on the link next to it to install the style.
 
 Some departments and their preferred style:
 
@@ -51,15 +51,15 @@ Next time you open this preference screen, your new style will appear as an opti
 
 ## Collecting References
 
-5. Now we'll create a new collection for the references you're about to import. Look at the left side of the Zotero pane. The folder icon on the upper left will allow you to create new collections of notes and sources. This is how you organize your items.
+1. Now we'll create a new collection for the references you're about to import. Look at the left side of the Zotero pane. The folder icon on the upper left will allow you to create new collections of notes and sources. This is how you organize your items.
 
 In Zotero your have one *library* that is organized into several *collections*. Collections are represented by folder icons. But, unlike with paper folders you may put an item into more than one collection. Right now create a collection for the topic of interest that you will be researching. Keep this new collection selected and any new items you import will automatically be added to it.
 
 ![New Collections icon][image-9]
 
-6. Now you will find articles or other sources to add to your Zotero library. From within Firefox, go to a database (Feinberg library databases include JSTOR, Web of Science, Science Direct, etc.) or Google Scholar and browse or search on a topic.
+2. Now you will find articles or other sources to add to your Zotero library. From within Firefox, go to a database (Feinberg library databases include JSTOR, Web of Science, Science Direct, etc.) or Google Scholar and browse or search on a topic.
 
-7. Once an article of interest is located, look at the address bar at the top of your browser. You'll see an icon at the right edge of the address bar. It probably looks like a piece of paper; it might look like a folder, or an open book. This icon will add the item in your browser to your Zotero library. Zotero knows what kind of item you are looking at -- an article, a book, or even a search results page with many articles listed -- and will show the icon that best represents that item. 
+3. Once an article of interest is located, look at the address bar at the top of your browser. You'll see an icon at the right edge of the address bar. It probably looks like a piece of paper; it might look like a folder, or an open book. This icon will add the item in your browser to your Zotero library. Zotero knows what kind of item you are looking at -- an article, a book, or even a search results page with many articles listed -- and will show the icon that best represents that item. 
 
 Click the icon. You'll see the item appear in your Zotero library. Give it a minute to download and click the small triangle on the left side of the item in the library. This will show a dropdown with the .pdf of your article (if it has one) automatically downloaded. 
 
@@ -67,17 +67,17 @@ If the icon does not show up in the address bar, back out of the browser URL w/ 
 
 ![Library pane with icon][image-10]
 
-9. You are able to make detailed notes that are linked to a specific reference using the "Notes" tab. Clicked on a reference in your library, and the window below becomes visible and you can make notes on a reference you are reading (like the old school index card method).
+4. You are able to make detailed notes that are linked to a specific reference using the "Notes" tab. Clicked on a reference in your library, and the window below becomes visible and you can make notes on a reference you are reading (like the old school index card method).
 
 ![][image-11]
 
-10. When done with citation selection, click on the green curled arrow icon (sync) on right of Zotero at bottom to sync articles. It may prompt you to log in.
+5. When done with citation selection, click on the green curled arrow icon (sync) on right of Zotero at bottom to sync articles. It may prompt you to log in.
 
 ![sync icon][image-12]
 
 ## Sharing References with a Group
 
-11. You can share the Zotero library with collaborators by creating a new **GROUP**. Sign back in on the main page Zotero.org in the GROUP tabà select **Create New Group, name it, select privacy settings.**
+1. You can share the Zotero library with collaborators by creating a new **GROUP**. Sign back in on the main page Zotero.org in the GROUP tabà select **Create New Group, name it, select privacy settings.**
 
 ![Zotero groups][image-13]
 
