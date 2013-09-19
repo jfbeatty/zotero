@@ -29,39 +29,29 @@
   
   - Chemistry: American Chemical Society  
   - Environmental Science: Council of Science Editors (author-date)  
+  - Nutrition: American Psychological Association (6th edition)  
 
   Next time you open this preference screen, your new style will appear as an option.
 ![Style manager][image-8]
 
 ## Collecting References
 
-1. Now we'll create a new collection for the references you're about to import. Look at the left side of the Zotero pane. The folder icon on the upper left will allow you to create new collections of notes and sources. This is how you organize your items.
-
-In Zotero your have one *library* that is organized into several *collections*. Collections are represented by folder icons. But, unlike with paper folders you may put an item into more than one collection. Right now create a collection for the topic of interest that you will be researching. Keep this new collection selected and any new items you import will automatically be added to it.
-
+1. Now we'll create a new collection for the references you're about to import. Look at the left side of the Zotero pane. The folder icon on the upper left will allow you to create new collections of notes and sources. This is how you organize your items.  
+In Zotero your have one *library* that is organized into several *collections*. Collections are represented by folder icons. But, unlike with paper folders you may put an item into more than one collection. Right now create a collection for the topic of interest that you will be researching. Keep this new collection selected and any new items you import will automatically be added to it.  
 ![New Collections icon][image-9]
-
-2. Now you will find articles or other sources to add to your Zotero library. From within Firefox, go to a database (Feinberg library databases include JSTOR, Web of Science, Science Direct, etc.) or Google Scholar and browse or search on a topic.
-
-3. Once an article of interest is located, look at the address bar at the top of your browser. You'll see an icon at the right edge of the address bar. It probably looks like a piece of paper; it might look like a folder, or an open book. This icon will add the item in your browser to your Zotero library. Zotero knows what kind of item you are looking at -- an article, a book, or even a search results page with many articles listed -- and will show the icon that best represents that item. 
-
-Click the icon. You'll see the item appear in your Zotero library. Give it a minute to download and click the small triangle on the left side of the item in the library. This will show a dropdown with the .pdf of your article (if it has one) automatically downloaded. 
-
+2. Now you will find articles or other sources to add to your Zotero library. From within Firefox, go to a database (Feinberg library databases include JSTOR, Academic Search Complete, Science Direct, etc.) or Google Scholar and browse or search on a topic.
+3. Once an article of interest is located, look at the address bar at the top of your browser. You'll see an icon at the right edge of the address bar. It probably looks like a piece of paper; it might look like a folder, or an open book. This icon will add the item in your browser to your Zotero library. Zotero knows what kind of item you are looking at -- an article, a book, or even a search results page with many articles listed -- and will show the icon that best represents that item.  
+Click the icon. You'll see the item appear in your Zotero library. Give it a minute to download and click the small triangle on the left side of the item in the library. This will show a dropdown with the .pdf of your article (if it has one) automatically downloaded.  
 If the icon does not show up in the address bar, back out of the browser URL w/ the back arrow one step and likely one will appear and a dialogue box will open allowing you to select the article from the list to catalog.
-
 ![Library pane with icon][image-10]
-
-4. You are able to make detailed notes that are linked to a specific reference using the "Notes" tab. Clicked on a reference in your library, and the window below becomes visible and you can make notes on a reference you are reading (like the old school index card method).
-
-![][image-11]
-
+4. You are able to make detailed notes that are linked to a specific reference using the "Notes" tab. Clicked on a reference in your library, and the window below becomes visible and you can make notes on a reference you are reading (like the old school index card method).  
+![Bibliographic info pane][image-11]
 5. When done with citation selection, click on the green curled arrow icon (sync) on right of Zotero at bottom to sync articles. It may prompt you to log in.
-
 ![sync icon][image-12]
 
 ## Sharing References with a Group
 
-1. You can share the Zotero library with collaborators by creating a new **GROUP**. Sign back in on the main page Zotero.org in the GROUP tabà select **Create New Group, name it, select privacy settings.**
+1. You can share the Zotero library with collaborators by creating a new **GROUP**. Sign back in on the main page Zotero.org in the GROUP tab. Select **Create New Group, name it, select privacy settings.**
 
 ![Zotero groups][image-13]
 
@@ -69,32 +59,20 @@ If the icon does not show up in the address bar, back out of the browser URL w/ 
 
 ## Citing Sources: the Microsoft Word plugin
 
-**While writing using Word (note if you are not using MS Word and use Libre Office there is a plug in for that freeware).**
+**While writing using Word (note if you are not using MS Word and use LibreOffice there is a plug in for that freeware).**
 
-1. Open a new document in MS Wordà in Add Insà custom toolbar.
-
-2. In the MS Word toolbar the cogà CSE (author-date) is listedà select ità accept as default (allow title abbreviations…this is the default setting) for document preferences.
-
+1. Open a new document in MS Word in the "Add Ins" custom toolbar.  
+2. In the MS Word toolbar the cog icon will allow you to set document preferences. Choose the correct citation style for your field. Set the other document preferences as shown below.  
 ![Microsoft Word toolbar][image-15]
-
 ![Document styles preference][image-16]
-
-3. Type a paraphrased sentence in MS Word and highlight the citation in the Zotero library that you would like to internally cite. Click the Insert citations icon (first one on left) in the Word Zotero toolbar. They should format as CSE formatting. Continue writing the paper and selecting appropriate internal references. (Alternatively, click this and search for those articles from the library and they can insert.)
-
+3. Type a paraphrased sentence in MS Word and highlight the citation in the Zotero library that you would like to internally cite. Click the Insert citations icon (first one on left) in the Word Zotero toolbar. Your in-text citations should appear in the style you selected above. Continue writing the paper and selecting appropriate internal references. (Alternatively, click the "Insert Citations" icon without first selecting a source from your library. Zotero will bring up a search bar allowing you to search your library for the correct source).   
 ![insert citation][image-17]
-
-4. When done for the day, click on the Zotero bibliography creator icon (3 from left in Zotero toolbar in Word). This will create a bibliography at the end of the paper formatted in CSE (author-date) style.
-
+4. When done for the day, click on the Zotero bibliography creator icon (3rd from left in Zotero toolbar in Word). This will create a bibliography at the end of the paper formatted in your preferred style.  
 ![Create bibliography][image-18]
-
-5. Save your document.
-
-**Note**: when attempting to start a sentence with the citation (instead of ending w/ it), in an effort to alter sentence structure, one can click the insert citation icon, type the authors name or article title, double click in the red window on the citation name for a dialogue box and **select to suppress the author name.** This will allow the year to show up in parentheses and the entry to be added to the bibliography.
-
-**Dickinson et al. (2010) noted….** (insert box/image indicating that only 2010 is linked to Zotero)
-
+5. Save your document.  
+  - **Note**: when attempting to start a sentence with the citation (instead of ending w/ it), in an effort to alter sentence structure, one can click the insert citation icon, type the authors name or article title, double click in the red window on the citation name for a dialogue box and **select to suppress the author name.** This will allow the year to show up in parentheses and the entry to be added to the bibliography.  
+  - **Dickinson et al. (2010) noted….** (insert box/image indicating that only 2010 is linked to Zotero)  
 ![Insert page number][image-19]
-
 6. When you are ready to turn in your final draft, you may choose to remove the links in your document. You can do this by clicking on the broken link icon on the far right of the custom toolbar. This will convert your document into plain text. Remember to save a version that includes the links in case you want to edit the paper in the future.
 
 [1]:http://www.mozilla.org/en-US/firefox/new/
